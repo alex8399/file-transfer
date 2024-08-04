@@ -4,6 +4,15 @@ Linux utility for sending and receiving files within a Local Area Network (LAN).
 
 Connections between users are established using sockets.
 
+## Content
+
+[Example](#example)
+
+[UML Class Diagramm](#UML Class Diagramm)
+
+[Using Valgrind to Detect Memory Leaks](#Using-Valgrind-to-Detect-Memory-Leaks)
+
+
 ## Example
 
 Sending files `text.txt` and `bin_file.exe` to a receiver at IP address `192.168.0.114` on port `8080`.
