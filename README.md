@@ -8,9 +8,11 @@ Connections between users are established using sockets.
 
 [Example](#example)
 
-[UML Class Diagramm](#UML Class Diagramm)
+[UML Class Diagram](#uml-class-diagram)
 
-[Using Valgrind to Detect Memory Leaks](#Using-Valgrind-to-Detect-Memory-Leaks)
+[Valgrind: Detecting Memory Leaks](#valgrind-detecting-memory-leaks)
+
+[How to run](#how-to-run)
 
 
 ## Example
@@ -61,10 +63,10 @@ alex@alex-VirtualBox:~/Desktop/linux_network_util/src$
 ```
 
 
-## UML Class Diagramm
+## UML Class Diagram
 ![images](/docs/diagram/UMLClassDiagram.drawio.svg)
 
-## Using Valgrind to Detect Memory Leaks
+## Valgrind: Detecting Memory Leaks
 
 ### Sending files
 
