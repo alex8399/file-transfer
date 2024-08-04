@@ -1,0 +1,5 @@
+*.exe
+*.o
+*.code-workspace
+src/out/**
+src/test/**
