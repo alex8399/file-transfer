@@ -25,7 +25,7 @@ Sending files `text.txt` and `bin_file.exe` to a receiver at IP address `192.168
 allex-nik@allex-nik:~/Programming/linux_network_util/src$  ./app.exe send 192.168.0.114 8080 ./text.txt ./bin_file.exe
 Command 'send' is set.
 ---------------------------------------------------------------------------
-File sender is wainting response from file receiver.
+File sender is waiting response from file receiver.
 Connection is established.
 The file transfer has started.
 ---------------------------------------------------------------------------
