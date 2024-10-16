@@ -127,7 +127,7 @@ As a result of Valgrind testing, no memory leaks were detected in the program. T
 ### Prerequisites
 1. Clang with C++20 support.
 2. Linux OS.
-3. LAN devices with IP addresses in the 192.168.X.X range.
+3. Two devices connected to the same Local Area Network (LAN), each assigned an IP address within the 192.168.X.X range.
 
 
 ### Installation
