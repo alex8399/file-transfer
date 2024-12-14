@@ -1,6 +1,3 @@
-all: *.o
-	clang++  -o app.exe test.cpp -o runnable
-
 CC = clang++
 CFLAGS = -O2 -std=c++20
 
@@ -18,11 +15,6 @@ dirs:
 	mkdir out/networks
 	mkdir out/exceptions
 
-build:
-	make clean
-	make dirs
-	make app.exe
-
 clean:
 	rm -rf *.o *.exe out
 
@@ -35,4 +27,4 @@ app.exe: $(OBJS) ./out/main.o
 ./out/%.o : ./%.cpp ./%.hpp
 	$(CC) $(CFLAGS) -c $< -o $@
 
-.PHONY: clean build dirs
+.PHONY: clean dirs
