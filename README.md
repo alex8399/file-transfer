@@ -30,10 +30,10 @@ Connection is established.
 The file transfer has started.
 ---------------------------------------------------------------------------
 The transfer of file ./text.txt has started.
-The transfer of file ./text.txt has finished. The size of ./text.txt is 16342 bites.
+The transfer of file ./text.txt has finished. The size of ./text.txt is 16342 bytes.
 ---------------------------------------------------------------------------
 The transfer of file ./bin_file.exe has started.
-The transfer of file ./bin_file.exe has finished. The size of ./bin_file.exe is 82856 bites.
+The transfer of file ./bin_file.exe has finished. The size of ./bin_file.exe is 82856 bytes.
 ---------------------------------------------------------------------------
 The file transfer has finished.
 Connection was closed.
@@ -52,10 +52,10 @@ Connection is established.
 The file downloading has started.
 ---------------------------------------------------------------------------
 The downloading of 1 file has started.
-The downloading of file ./text.txt has finished. The size of ./text.txt is 16342 bites.
+The downloading of file ./text.txt has finished. The size of ./text.txt is 16342 bytes.
 ---------------------------------------------------------------------------
 The downloading of 2 file has started.
-The downloading of file ./bin_file.exe has finished. The size of ./bin_file.exe is 82856 bites.
+The downloading of file ./bin_file.exe has finished. The size of ./bin_file.exe is 82856 bytes.
 ---------------------------------------------------------------------------
 The file downloading has finished.
 Connection was closed.
