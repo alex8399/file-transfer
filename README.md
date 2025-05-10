@@ -186,8 +186,8 @@ As a result of Valgrind testing, no memory leaks were detected in the program. T
   ./app.exe send 192.168.0.114 8080 file1.txt file2.txt
   ```
 
-- To receive 3 files on port `8080`:
+- To receive 2 files on port `8080`:
 
   ```bash
-  ./app.exe receive 8080 3
+  ./app.exe receive 8080 2
   ```
